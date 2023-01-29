@@ -8,6 +8,8 @@ import FolderIcon from "@static/folder.png";
 import LinkedInIcon from "@static/LinkedInIcon.png";
 import { Link } from "react-router-dom";
 import mIcon from "@static/mIcon.jpg";
+
+const MediumIcon="https://icons8.com/icon/BzFWSIqh6bCr/medium"
 // import MyResume from "../Resume/resume/MyResume.pdf"
 
 
@@ -53,6 +55,15 @@ const DockContent = () => {
 								<li data-title="LinkedIn">
 									<img
 										src={LinkedInIcon}
+										className="img-fluid"
+										alt="dope"
+									/>
+								</li>
+							</a>
+							<a href="https://medium.com/@mehdissem">
+								<li data-title="Medium">
+									<img
+										src={MediumIcon}
 										className="img-fluid"
 										alt="dope"
 									/>
