@@ -14,7 +14,7 @@ const Wrapper = styled.div`
 	display: grid;
 	place-items: center;
 	min-height: 100vh;
-	background: url(https://c1.wallpaperflare.com/preview/811/367/789/technology-computer-creative-design.jpg) no-repeat center center;
+	background: url(https://wallpaperboat.com/wp-content/uploads/2019/10/programming-04.jpg) no-repeat center center;
 	background-size: cover;
 	overflow: hidden;
 `;
