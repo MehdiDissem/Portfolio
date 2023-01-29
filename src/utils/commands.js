@@ -129,7 +129,7 @@ let commandList = [
 		action: true,
 		response: "",
 		subPathStrict: [true, { name: ".", response: "" }],
-		description: "opens a VS code window for this website's source code",
+		description: "opens a VS code window to see my problem solving skills",
 	},
 	{
 		name: ["happiness"],

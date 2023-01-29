@@ -12,7 +12,7 @@ const VSCodeContent = () => {
 	return (
 		<BodyContent>
 			<Iframe
-				src="https://github1s.com/MehdiDissem/Portfolio/blob/main/src/App.jsx"
+				src="https://github1s.com/MehdiDissem/Problem-solving/blob/main/Greed%20dice%20game.js"
 				frameBorder="0"
 				title="VsCode"
 			></Iframe>
