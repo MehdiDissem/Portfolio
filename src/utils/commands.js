@@ -155,7 +155,7 @@ let commandList = [
 	}, {
 		name:["tools"],
 		action:true,
-		response:"<div>Languages : JavaScript - TypeScript</div><div>Front-End : React, ReactNative, nextJS, HTML, CSS, TailWind, Bootstrap,mUI </div><div>Back-End : NodeJS - Express - Prisma</div> <div>Databases : MongoDB, Postgres, MySql</div> <div>Management Tools : Trell - Mire - Figma</div>",
+		response:"<div>Languages : JavaScript - TypeScript</div><div>Front-End : React, ReactNative, nextJS, HTML, CSS, TailWind, Bootstrap,mUI </div><div>Back-End : NodeJS - Express - Prisma</div> <div>Databases : MongoDB, Postgres, MySql</div> <div>Management Tools : Trello - Mire - Figma</div>",
 		subPathStrict:[false],
 		description:"The tools that i used"
 
