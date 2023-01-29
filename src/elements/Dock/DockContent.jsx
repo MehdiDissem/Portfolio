@@ -9,7 +9,7 @@ import LinkedInIcon from "@static/LinkedInIcon.png";
 import { Link } from "react-router-dom";
 import mIcon from "@static/mIcon.jpg";
 
-const MediumIcon="https://icons8.com/icon/BzFWSIqh6bCr/medium"
+const MediumIcon="https://www.iconpacks.net/icons/2/free-medium-icon-2177-thumb.png"
 // import MyResume from "../Resume/resume/MyResume.pdf"
 
 
