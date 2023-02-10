@@ -14,7 +14,7 @@ const Wrapper = styled.div`
 	display: grid;
 	place-items: center;
 	min-height: 100vh;
-	background: url(https://wallpaperboat.com/wp-content/uploads/2019/10/programming-04.jpg) no-repeat center center;
+	background: url(https://res.cloudinary.com/dlnvacfsc/image/upload/v1676021629/mahdouch-01_1_hklxcd.png) no-repeat center center;
 	background-size: cover;
 	overflow: hidden;
 `;
