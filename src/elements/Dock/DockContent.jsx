@@ -10,6 +10,7 @@ import { Link } from "react-router-dom";
 import mIcon from "@static/mIcon.jpg";
 
 const MediumIcon="https://www.iconpacks.net/icons/2/free-medium-icon-2177-thumb.png"
+const PythonIcon="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
 // import MyResume from "../Resume/resume/MyResume.pdf"
 
 
@@ -64,6 +65,15 @@ const DockContent = () => {
 								<li data-title="Medium">
 									<img
 										src={MediumIcon}
+										className="img-fluid"
+										alt="dope"
+									/>
+								</li>
+							</a>
+							<a href="/PythonVSCode">
+								<li data-title="Python problem solving">
+									<img
+										src={PythonIcon}
 										className="img-fluid"
 										alt="dope"
 									/>
