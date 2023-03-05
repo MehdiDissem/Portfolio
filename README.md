@@ -1,4 +1,3 @@
-Mehdi Dissem Portfolio
 Hello! this portfolio is supposed to be only for Desktop, type "help" and have a look, it is alot of fun!
 
 ![My_Remote_Image](https://i.ibb.co/2vsGJbv/portf1.png)
